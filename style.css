@@ -71,7 +71,7 @@ body{
 }
 
 .mini-box{
-  width: 381px;
+  width: 391px;
   height: 176px;
   border: 1px solid #F3D1BF;
   background-color: #FDF0E9;
@@ -383,7 +383,7 @@ body{
 
   .box{
     background-position: top center;
-    background-size: 390px;
+    background-size: 385px;
     margin-top: 50px;
     justify-content: space-around;
   }
@@ -398,7 +398,7 @@ body{
   }
 
   .images{
-    width: 410px;
+    width: 385px;
   }
 
   .image-other{
